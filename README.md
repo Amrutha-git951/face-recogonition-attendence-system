@@ -1,11 +1,11 @@
-Face recogonition attendence system
+Face recogonition attendence system:- 
 Maintaining attendance is very important in all educational institutions. Every institution has its own method of taking student attendance. Face recognition has characteristics that other biometrics do not have. Facial images can be captured from a distance and any special action is not required for authentication. Due to such characteristics, the face recognition technique is applied widely, not only to security applications but also to image indexing, image 
 retrievals and natural user interfaces. Faces are highly challenging and dynamic objects that are employed as biometric evidence, in identity verification. Biometrics systems have proven to be an essential security tool, in which bulk matching of enrolled people and watch lists is performed every day.  
-installations - : Download Python 3.8.3 version 
-                 Installation of OpenCV using Pip
-                 Command to check the version of OpenCv
-                 Installing Tkinter and Importing
-                 Installation of DateTime and Importing
+installations - : Download Python 3.8.3 version,  
+                 Installation of OpenCV using Pip, 
+                 Command to check the version of OpenCv, 
+                 Installing Tkinter and Importing, 
+                 Installation of DateTime and Importing, 
                  Installation of pycharm.
                  
                 
